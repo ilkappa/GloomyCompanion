@@ -341,7 +341,6 @@
     left:                       -25%;
     -webkit-clip-path:          inset(0% 24.5% 0% 24.5%);
     clip-path:                  inset(0% 24.5% 0% 24.5%);
-    -webkit-clip-path:          inset(0% 24.5% 0% 24.5%);
 }
 
 .card.modifier.front.right img.cover
@@ -349,7 +348,6 @@
     left:                       25%;
     -webkit-clip-path:          inset(0% 24.5% 0% 24.5%);
     clip-path:                  inset(0% 24.5% 0% 24.5%);
-    -webkit-clip-path:          inset(0% 24.5% 0% 24.5%);
 }
 
 .card ul
